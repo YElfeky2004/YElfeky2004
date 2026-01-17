@@ -9,7 +9,7 @@
 <a href="https://github.com/YElfeky2004" target="_blank">
   <img alt="Github" width=100px src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<br><br>
+
 <a href="https://www.kaggle.com/youssefelfeky" target="_blank">
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle">
 </a>
