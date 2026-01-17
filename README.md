@@ -10,14 +10,14 @@
   <img align="left" alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-%23DCFF50?style=for-the-badge">
 </a>
 <br><br>
+<a href="https://www.kaggle.com/youssefelfeky" target="_blank">
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle">
+</a>
 <a href="https://vjudge.net/user/Artorias04_" target="_blank">
-  <img align="left" alt="VJudge not CodeForces lol" src="https://img.shields.io/badge/Vjudge-gold?style=for-the-badge&logo=CodeForces&logoColor=black">
+  <img alt="VJudge not CodeForces lol" src="https://img.shields.io/badge/Vjudge-gold?style=for-the-badge&logo=CodeForces&logoColor=black">
 </a>
 <a href="https://leetcode.com/u/YEwork/" target="_blank">
-  <img align="left" alt="leetcode" src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
-</a>
-<a href="https://www.kaggle.com/youssefelfeky" target="_blank">
-  <img align="left" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle">
+  <img alt="leetcode" src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
