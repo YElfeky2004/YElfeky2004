@@ -1,7 +1,6 @@
 <div align="center">
   
 # sup-sup!! welcome to my profile! :D
-
 <br><br>
 <a href="https://www.linkedin.com/in/youssef-elfeky-b292752b1/" target="_blank">
   <img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
