@@ -4,25 +4,21 @@
   <img align="left" alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
 </a>
 <a href="https://github.com/YElfeky2004" target="_blank">
-  <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="Github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.coursera.org/learner/akd-1301">
-  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
-<a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
-  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
+<a href="https://gamma.app/docs/Youssef-Elfeky-17r2lnzbg81tpit?mode=doc" target="_blank">
+  <img align="left" alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-%23DCFF50?style=for-the-badge">
 </a>
 <br><br>
-<a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a>
 <a href="https://vjudge.net/user/Artorias04_" target="_blank">
-  <img alt="VJudge not CodeForces lol" src="https://img.shields.io/badge/Vjudge-gold?style=for-the-badge&logo=CodeForces&logoColor=black">
+  <img align="left" alt="VJudge not CodeForces lol" src="https://img.shields.io/badge/Vjudge-gold?style=for-the-badge&logo=CodeForces&logoColor=black">
 </a>
 <a href="https://leetcode.com/u/YEwork/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
+  <img align="left" alt="leetcode" src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
-
+<a href="https://www.kaggle.com/youssefelfeky" target="_blank">
+  <img align="left" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle">
+</a>
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
