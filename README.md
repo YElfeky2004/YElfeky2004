@@ -1,22 +1,22 @@
 # sup-sup!! welcome to my profile! :D
 <br><br>
 <a href="https://www.linkedin.com/in/youssef-elfeky-b292752b1/" target="_blank">
-  <img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+  <img align="left" alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
 </a>
 <a href="https://gamma.app/docs/Youssef-Elfeky-17r2lnzbg81tpit?mode=doc" target="_blank">
-  <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-%23DCFF50?style=for-the-badge">
+  <img align="left" alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-%23DCFF50?style=for-the-badge">
 </a>
 <a href="https://github.com/YElfeky2004" target="_blank">
-  <img alt="Github" width=100px src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="Github" width=100px src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/youssefelfeky" target="_blank">
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle">
+  <img align="left" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=Kaggle">
 </a>
 <a href="https://vjudge.net/user/Artorias04_" target="_blank">
-  <img alt="VJudge not CodeForces lol" src="https://img.shields.io/badge/Vjudge-gold?style=for-the-badge&logo=CodeForces&logoColor=black">
+  <img align="left" alt="VJudge not CodeForces lol" src="https://img.shields.io/badge/Vjudge-gold?style=for-the-badge&logo=CodeForces&logoColor=black">
 </a>
 <a href="https://leetcode.com/u/YEwork/" target="_blank">
-  <img alt="leetcode" src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
+  <img align="left" alt="leetcode" src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
