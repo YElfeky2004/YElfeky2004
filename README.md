@@ -1,16 +1,10 @@
 # sup-sup!! welcome to my profile! :D
 <br><br>
-<a href="https://www.linkedin.com/in/youssef-elfeky-b292752b1/">
-  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/youssef-elfeky-b292752b1/" target="_blank">
+  <img align="left" alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
 </a>
-<a href="https://github.com/amandewatnitrr">
+<a href="https://github.com/YElfeky2004" target="_blank">
   <img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/straw_hat_akd/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="https://www.coursera.org/learner/akd-1301">
   <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
@@ -22,10 +16,10 @@
 <a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<a href="https://community.wolfram.com/web/amandewatnitrr?p_p_id=user_WAR_userportlet&tabs1=Discussions"  target="_blank">
-  <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=Wolfram&logoColor=white">
+<a href="https://vjudge.net/user/Artorias04_" target="_blank">
+  <img alt="VJudge not CodeForces lol" src="https://img.shields.io/badge/Vjudge-gold?style=for-the-badge&logo=CodeForces&logoColor=black">
 </a>
-<a href="https://leetcode.com/u/amandewatnitrr/"  target="_blank">
+<a href="https://leetcode.com/u/YEwork/" target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
 
