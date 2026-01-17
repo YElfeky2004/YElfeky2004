@@ -4,7 +4,7 @@
   <img align="left" alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
 </a>
 <a href="https://github.com/YElfeky2004" target="_blank">
-  <img align="left" alt="Github" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="Github" width=10px src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://gamma.app/docs/Youssef-Elfeky-17r2lnzbg81tpit?mode=doc" target="_blank">
   <img align="left" alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-%23DCFF50?style=for-the-badge">
