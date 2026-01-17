@@ -20,8 +20,8 @@
   <img alt="leetcode" src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 </div>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 
 <div>
