@@ -1,13 +1,13 @@
 # sup-sup!! welcome to my profile! :D
 <br><br>
 <a href="https://www.linkedin.com/in/youssef-elfeky-b292752b1/" target="_blank">
-  <img align="left" alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
-</a>
-<a href="https://github.com/YElfeky2004" target="_blank">
-  <img align="left" alt="Github" width=100px src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img alt="My LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" />
 </a>
 <a href="https://gamma.app/docs/Youssef-Elfeky-17r2lnzbg81tpit?mode=doc" target="_blank">
-  <img align="left" alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-%23DCFF50?style=for-the-badge">
+  <img alt="My Portfolio" src="https://img.shields.io/badge/Portfolio-%23DCFF50?style=for-the-badge">
+</a>
+<a href="https://github.com/YElfeky2004" target="_blank">
+  <img alt="Github" width=100px src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <br><br>
 <a href="https://www.kaggle.com/youssefelfeky" target="_blank">
