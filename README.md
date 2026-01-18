@@ -40,17 +40,12 @@
 - ⚡ <samp>Current Anime: One Piece at the moment
 - 🎮 <samp>Video Games: Nowadays I rotate between OW2, TF2 and Minecraft
 - ♟ <samp>My Elo on Chess.com is 1073
-</div>
-
-##
-
-<div>
-<h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp><b>Data Analyst Specialist Trainee @ DEPI 2025</b> 
 - 🔭 <samp><b>A.I Trainee @ Telecom Egypt Training Sector 2024</b>
+<br><br>
 </div>
 
-##
+
 <h3><b><samp>Skills</samp></b></h3>
 
 <h4><b><samp>Languages</samp></b></h4>
