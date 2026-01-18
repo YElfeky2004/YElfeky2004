@@ -1,4 +1,4 @@
-<div align="left">
+<div align="Center">
   
 # sup-sup!! welcome to my profile! :D
 <br>
@@ -47,7 +47,7 @@
 </div>
 
 ---
-
+<div align="Center">
 <h3><b><samp>Skills</samp></b></h3>
 
 <h4><b><samp>Languages</samp></b></h4>
@@ -66,4 +66,4 @@
 
 ![](https://skills.syvixor.com/api/icons?perline=15&i=git,amazonwebservices,googlecolaboratory,mongodb)
 <hr> 
-  
+</div>
