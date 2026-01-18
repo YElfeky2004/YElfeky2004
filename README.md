@@ -46,7 +46,7 @@
 <br>
 </div>
 
-
+<div>
 <h3><b><samp>Skills</samp></b></h3>
 
 <h4><b><samp>Languages</samp></b></h4>
@@ -68,7 +68,7 @@
 <h4><b><samp>Tools / Platforms</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?perline=15&i=git,amazonwebservices,googlecolaboratory,mongodb)
-
+</div>
 <hr> 
   
 <h3><b><samp>Check out my Repositories</samp></b></h3>
