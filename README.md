@@ -46,6 +46,8 @@
 <br>
 </div>
 
+---
+
 <div>
 <h3><b><samp>Skills</samp></b></h3>
 
