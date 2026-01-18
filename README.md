@@ -46,10 +46,10 @@
 <br>
 </div>
 
----
+<hr>
 <div align="Center">
 <h3><b><samp>Skills</samp></b></h3>
-
+</div>
 <h4><b><samp>Languages</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?perline=15&i=python,java,cpp,sql,sqlserver)
@@ -65,5 +65,3 @@
 <h4><b><samp>Tools / Platforms</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?perline=15&i=git,amazonwebservices,googlecolaboratory,mongodb)
-<hr> 
-</div>
