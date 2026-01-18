@@ -32,7 +32,9 @@
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
-
+  
+- 👷 <samp><b>Data Analyst Specialist Trainee @ DEPI 2025</b> 
+- 🔭 <samp><b>A.I Trainee @ Telecom Egypt Training Sector 2024</b>
 - 👨‍🎓 <samp><b>BSc in Data Science(2023-2027) from Alexandria University - 3.51 GPA</b>
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about Data Analysis & Data Science
@@ -40,8 +42,6 @@
 - ⚡ <samp>Current Anime: One Piece at the moment
 - 🎮 <samp>Video Games: Nowadays I rotate between OW2, TF2 and Minecraft
 - ♟ <samp>My Elo on Chess.com is 1073
-- 👷 <samp><b>Data Analyst Specialist Trainee @ DEPI 2025</b> 
-- 🔭 <samp><b>A.I Trainee @ Telecom Egypt Training Sector 2024</b>
 <br><br>
 <br>
 </div>
