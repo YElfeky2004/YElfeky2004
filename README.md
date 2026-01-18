@@ -43,6 +43,7 @@
 - 👷 <samp><b>Data Analyst Specialist Trainee @ DEPI 2025</b> 
 - 🔭 <samp><b>A.I Trainee @ Telecom Egypt Training Sector 2024</b>
 <br><br>
+<br>
 </div>
 
 
